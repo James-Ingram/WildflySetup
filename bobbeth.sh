@@ -7,5 +7,6 @@ figlet "Sir, Sir?! Sir Bobbeth?!" >  ~/.bobbeth
 echo "Bobbeth Created"
 echo "alias h='figlet \"Hail, Sir Bobbeth!\"'" >> ~/.bashrc
 echo "alias hr='figlet \"Hath Thy Man Been Slighted?\"'" >> ~/.bashrc
+echo "alias hr!='figlet \"I HATH BEEN SLIGHTED!\"'" >> ~/.bashrc
 echo "cat ~/.bobbeth" >> ~/.bashrc
 exit
