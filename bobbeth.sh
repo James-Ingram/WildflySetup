@@ -6,6 +6,6 @@ echo "figlet Installed"
 figlet "Sir, Sir?! Sir Bobbeth?!" >  ~/.bobbeth
 echo "Bobbeth Created"
 alias h='figlet "Hail, Sir Bobbeth!"' >> ~/.bashrc
-alias hr='figlet "Hath Thy Man Been Slighted?" >> ~./bashrc
+alias hr='figlet "Hath Thy Man Been Slighted?"' >> ~./bashrc
 echo "cat ~/.bobbeth" >> ~/.bashrc
 exit
