@@ -1,4 +1,4 @@
-# !! Will Require CORS Chrome Extension!!
+# !! Will Require CORS Chrome Extension !!
 - Find (Singular): Will Work Without
 - Create: Will Work Without
 - Update: Will **NOT** Work Without
