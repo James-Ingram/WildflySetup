@@ -1,3 +1,4 @@
+# !! Will Require CORS Chrome Extension!!
 # To Setup The GCP Server
 ---( **Each Step Is In Order** )---
 
