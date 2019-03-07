@@ -34,3 +34,23 @@ Find the "Type" Column
 - Menu will Appear (Name it)
 
 # **Start Server.**
+Once the terminal has loaded:
+**Input:** 
+	- `git clone https://github.com/smurfjames101/bobbeth.git`
+	- `chmod +x bobbeth/setupServer.sh`
+	- `sudo sh setupServer.sh`
+
+( It will tell you when it's done ) 
+	- Clone down your React App.
+	- `cd (React App)`
+	- `npm update`
+	- `npm start`
+
+# Running Wildfly
+**Open A New SSH Terminal**
+Run: `sh wildfly-10.1.0.Final/bin/standalone.sh`
+# Running React
+**Open A New SSH Terminal**
+- Run: 
+- `cd (React Project Name)`
+- `npm start`
