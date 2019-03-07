@@ -17,3 +17,4 @@ cp bobbeth/standalone.xml wildfly-10.1.0.Final/standalone/configuration/
 figlet "Swapped Standalone.xml."
 echo "Download your React Project"
 echo "Run \"npm update\" Inside the react project (contains the node_module folder), This will take a while"
+echo "You can upload you WAR file with the \"cog wheel\" in the top corner"
