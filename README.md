@@ -1,4 +1,8 @@
 # !! Will Require CORS Chrome Extension!!
+- Find (Singular): Will Work Without
+- Create: Will Work Without
+- Update: Will **NOT** Work Without
+- Delete: Will **NOT** Work Without
 # To Setup The GCP Server
 ---( **Each Step Is In Order** )---
 
