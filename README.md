@@ -1,4 +1,5 @@
 # !! Will Require CORS Chrome Extension !!
+( https://chrome.google.com/webstore/detail/moesif-orign-cors-changer/digfbfaphojjndkpccljibejjbppifbc?utm_source=chrome-ntp-icon )
 - Find (Singular): Will Work Without
 - Create: Will Work Without
 - Update: Will **NOT** Work Without
@@ -31,7 +32,7 @@ Create a new Firewall rule.
  - **Name:** (It can be whatever)
  - **Target Tags:** Add "project" (or whatever the network tag was called)
  - **Source IP Ranges:** Add "0.0.0.0/0"
- - **Protocols and Ports:** Click "tcp", add "3000,8080"
+ - **Protocols and Ports:** Click "tcp", add "3000,8080,8888"
 >Click "Create"
 
 # Static IP Address 
@@ -50,6 +51,14 @@ Once the terminal has loaded:
 - This will start Wildfly in the background, should you have the terminal, hit `Enter` 
   once you see a mention of `"services are lazy, passive or on-demand"`
   (Or spam `enter` if that helps...)
+  
+# Changing The WildFly Port Number
+- `vim wildfly-10.1.0.Final/standalone/configuration/standalone.xml`
+Find the line matching `port-offset="${jboss.socket.binding.port-offset:0}`
+- The Offset changes the port to `8080 + offset`,
+Change The `0` to something else, I'll use 808. (Making my port number 8888).
+Restart the server.
+
 
 - Clone down your React App.
 - `cd (React App)`
