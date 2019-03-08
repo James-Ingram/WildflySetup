@@ -43,7 +43,8 @@ Find the "Type" Column
 - Menu will Appear (Name it)
 
 # **Start Server.**
-**Run All Commands From The The Home Folder**
+**Run All Commands From The Home Folder**
+
 Once the terminal has loaded:
 **Input:** 
 - `git clone https://github.com/smurfjames101/WildflySetup.git`
