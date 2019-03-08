@@ -41,15 +41,16 @@ Find the "Type" Column
 # **Start Server.**
 Once the terminal has loaded:
 **Input:** 
-- `git clone https://github.com/smurfjames101/bobbeth.git`
-- `chmod +x bobbeth/setupServer.sh`
+- `git clone https://github.com/smurfjames101/WildflySetup.git`
+- `chmod +x WildflySetup/setupServer.sh`
 - `sudo sh setupServer.sh`
+- This will start Wildfly in the background, should you have the terminal, hit `Enter` 
+  once you see a mention of `"services are lazy, passive or on-demand"`
+  (Or spam `enter` if that helps...)
 
-( It will tell you when it's done ) 
 - Clone down your React App.
 - `cd (React App)`
 - `npm update`
-- `npm start`
 
 # Running Wildfly
 **Open A New SSH Terminal**
