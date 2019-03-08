@@ -13,6 +13,7 @@ To begin with:
 		- **Region:** Change to ***europe-west2-c***
 		- **Firewall:** Allow both HTTPS and HTTP traffic 
 		> Click "Management, security, disks, networking, sole tenancy"
+		>
 		> Click "Networking"
 		- **Network Tags:** add "project" (You'll make it next)
 - Copy the git clone link 
