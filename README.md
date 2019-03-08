@@ -22,7 +22,9 @@ To begin with:
 
 # Firewall Rules
 >Click "Navigation Menu"
+
 >Click "VPC Network"
+
 >Click "Firewall Rules"
 
 Create a new Firewall rule.
