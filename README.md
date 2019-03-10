@@ -1,9 +1,3 @@
-# !! Will Require CORS Chrome Extension !!
-( https://chrome.google.com/webstore/detail/moesif-orign-cors-changer/digfbfaphojjndkpccljibejjbppifbc?utm_source=chrome-ntp-icon )
-- Find (Singular): Will Work Without
-- Create: Will Work Without
-- Update: Will **NOT** Work Without
-- Delete: Will **NOT** Work Without
 # To Setup The GCP Server
 ---( **Each Step Is In Order** )---
 
