@@ -38,7 +38,8 @@ Find the "Type" Column
 
 # **Start Server.**
 **Run All Commands From The User Home Folder**
-**Your Terminal shoul look like this: `username@instanceName:~$`**
+
+**Your Terminal Should Look Like This: `username@instanceName:~$`**
 
 Once the terminal has loaded:
 **Input:** 
