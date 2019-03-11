@@ -37,7 +37,8 @@ Find the "Type" Column
 - Menu will Appear (Name it)
 
 # **Start Server.**
-**Run All Commands From The Home Folder**
+**Run All Commands From The User Home Folder
+**Your Terminal shoul look like this: `username@instanceName:~$`**
 
 Once the terminal has loaded:
 **Input:** 
