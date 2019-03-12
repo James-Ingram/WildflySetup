@@ -69,4 +69,5 @@ Run: `sh wildfly-10.1.0.Final/bin/standalone.sh`
 **Open A New SSH Terminal**
 - Run: 
 - `cd (React Project Name)`
+- `npm install` (This ***will*** Take While)
 - `npm start`
