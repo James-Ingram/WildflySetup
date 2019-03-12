@@ -45,7 +45,7 @@ Once the terminal has loaded:
 **Input:** 
 - `git clone https://github.com/smurfjames101/WildflySetup.git`
 - `chmod +x WildflySetup/setupServer.sh`
-- `sudo sh setupServer.sh`
+- `sudo sh WildflySetup/setupServer.sh`
 - This will start Wildfly in the background, should you have the terminal, hit `Enter` 
   once you see a mention of `"services are lazy, passive or on-demand"`
   (Or spam `enter` if that helps...)
