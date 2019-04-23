@@ -52,7 +52,7 @@ Once the terminal has loaded:
   
 # Changing The WildFly Port Number
 
-**This will have been completed after running the script, this documentation is to inform you on the process, should ou wish to change it further**
+**This will have been completed after running the script, this documentation is to inform you on the process, should you wish to change it further**
 - `vim wildfly-10.1.0.Final/standalone/configuration/standalone.xml`
 Find the line matching `port-offset="${jboss.socket.binding.port-offset:0}`
 - The Offset changes the port to `8080 + offset`,
