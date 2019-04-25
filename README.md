@@ -71,8 +71,8 @@ Run: `sh wildfly-10.1.0.Final/bin/standalone.sh`
 **This will lock the terminal to the Wildfly console**
 
 If you require the use of the terminal after running this command add `&`
-
 to the end of the command and the process will begin in the background
+
 **The output will still be printed to the terminal**, however you will still be able to enter new commands
 # Running React
 **Open A New SSH Terminal**
@@ -84,5 +84,4 @@ to the end of the command and the process will begin in the background
 **This will lock the terminal to the React Development console**
 
 Once again should you require use of the terminal after this command add `&` 
-
 to the end of the line and you can use the terminal as normal once the startup is complete
