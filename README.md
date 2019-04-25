@@ -57,6 +57,7 @@ Once the terminal has loaded:
 Find the line matching `port-offset="${jboss.socket.binding.port-offset:0}`
 - The Offset changes the port to `8080 + offset`,
 Change The `0` to something else, I'll use 808. (Making my port number 8888).
+For an explanation of offsets see [Here.](https://access.redhat.com/documentation/en-us/jboss_enterprise_application_platform/6/html/administration_and_configuration_guide/about_port_offsets_for_socket_binding_groups1 "Offset Documentation")
 Restart the server.
 
 
