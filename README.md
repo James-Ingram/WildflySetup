@@ -43,7 +43,7 @@ Find the "Type" Column
 
 Once the terminal has loaded:
 **Input:** 
-- `git clone https://github.com/smurfjames101/WildflySetup.git`
+- `git clone https://github.com/James-Ingram/WildflySetup.git`
 - `chmod +x WildflySetup/setupServer.sh`
 - `sudo sh WildflySetup/setupServer.sh`
 - This will start Wildfly in the background, should you have the terminal, hit `Enter` 
